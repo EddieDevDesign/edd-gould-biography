@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import Heading from "./heading";
+import Heading from "./Heading";
 import ReadingProgress from "./ReadingProgress";
 import BackToTop from "./BackToTop";
 import FeaturedIntro from "./FeaturedIntro";
