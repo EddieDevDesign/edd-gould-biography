@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.local
+
+# Unused classroom exercises
+src/ArraysObjects.jsx
+src/List.jsx
+src/Form.jsx
+src/FullName.jsx
+src/Use.jsx
+src/Map.jsx
+src/ConditionalComponent.jsx
+src/MultipleState.jsx
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
