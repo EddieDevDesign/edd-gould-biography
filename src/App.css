@@ -1,8 +1,17 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   color: #202122;
+  width: 100%;
   max-width: 1400px;
   margin: 0 auto;
   padding: 10px 20px;
+  box-sizing: border-box;
 }
 
 html {
@@ -421,6 +430,16 @@ html {
 .contents-toggle:focus-visible {
   outline: 2px solid #4b8b57;
   outline-offset: 3px;
+}
+
+@media (max-width: 900px) {
+  .contents {
+    width: 100%;
+  }
+
+  .article-content {
+    min-width: 0;
+  }
 }
 
 .filmography-table {
