@@ -37,3 +37,12 @@ not affiliated with Eddsworld.
 
 Biographical content is adapted from Wikipedia
 and other attributed sources.
+
+# Edd Gould — Wikipedia React Project
+
+A Wikipedia-inspired biography website dedicated to
+Edd Gould, built using React, Vite, and CSS.
+
+## 🌐 Live Demo
+
+[View the live website](https://eddiedevdesign.github.io/edd-gould-biography/)
